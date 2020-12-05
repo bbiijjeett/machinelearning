@@ -1,2 +1,2 @@
 # machinelearning
-All the machine learning small projects.
+Machine Learning Small Projects.
